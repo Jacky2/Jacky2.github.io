@@ -219,22 +219,6 @@
   </url>
   
   <url>
-    <loc>https://jacky2.github.io/categories/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://jacky2.github.io/cn/categories/programming/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jacky2.github.io/categories/programming/"
-                />
-  </url>
-  
-  <url>
     <loc>https://jacky2.github.io/tags/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
@@ -247,6 +231,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://jacky2.github.io/tags/programming/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://jacky2.github.io/categories/programming/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://jacky2.github.io/cn/categories/programming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jacky2.github.io/categories/programming/"
                 />
   </url>
   
